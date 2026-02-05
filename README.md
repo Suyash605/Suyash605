@@ -34,7 +34,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash605&layout=compact&theme=tokyonight)
 
-
 ---
 
 ## 📌 Featured Projects
