@@ -15,15 +15,40 @@
 
 ---
 
-🛠️ Java Full-Stack Tech Stack
-☕ Backend & Core Java
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /> </p> <p align="center"> <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white" /> </p>
-🌐 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
-🗄️ Database
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
-⚙️ Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" /> </p> <p align="center"> <img src="https://img.shields.io/badge/EditPlus-00ADEF?style=for-the-badge&logo=windows&logoColor=white" /> </p>
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat"/>
+  <img src="https://img.shields.io/badge/J2EE-007396?style=flat"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
+
 
 ---
 
