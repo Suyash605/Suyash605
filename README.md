@@ -15,14 +15,15 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql" />
-</p>
+🛠️ Java Full-Stack Tech Stack
+☕ Backend & Core Java
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /> </p> <p align="center"> <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white" /> </p>
+🌐 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
+🗄️ Database
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+⚙️ Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" /> </p> <p align="center"> <img src="https://img.shields.io/badge/EditPlus-00ADEF?style=for-the-badge&logo=windows&logoColor=white" /> </p>
 
 ---
 
