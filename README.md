@@ -8,10 +8,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 B.Tech Computer Science Student  
+- 🎓 B.Tech In Computer Science 
 - 💻 Passionate about Java & Web Development  
 - 🌱 Currently learning **Java 8 & Advanced SQL**
-- 🎯 Goal: Software Developer  
+- 🎯 Goal: Java Full-Stack Developer  
 
 ---
 
